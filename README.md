@@ -64,6 +64,16 @@ Creates requests for generating new number
 Saves msg.sender and its callback function signature used later to pass the received random number from chainlink
 
 
+## Setup
+
+
+```git clone https://github.com/asparuhdamyanov/Decentralized-Smart-Contract-Lottery.git```
+
+```cd NFT-lottery```
+
+``` yarn```
+
+```npm run test or npx hardhat test```
 
 
 
