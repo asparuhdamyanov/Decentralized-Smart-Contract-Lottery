@@ -19,14 +19,4 @@ module.exports = {
     currency: 'USD',
     // coinmarketcap: process.env.API_KEY__COINMARKETCAP
   }
-  // networks: {
-  //   rinkeby: {
-  //     url: `https://rinkeby.infura.io/v3/0dc62080d95a458fbcd7bd0e28a1a95d`,
-  //     accounts: [process.env.PRIVATE_KEY__RINKEBY]
-  //   },
-  //   mainnet: {
-  //     url: `https://mainnet.infura.io/v3/0dc62080d95a458fbcd7bd0e28a1a95d`,
-  //     accounts: [process.env.PRIVATE_KEY__RINKEBY]
-  //   }
-  // }
 };
