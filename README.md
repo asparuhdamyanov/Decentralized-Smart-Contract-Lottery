@@ -20,7 +20,9 @@ Implementing the following:
 
 2.**Beacon Proxy Pattern** - for creating and maintaining new lottery rounds.
 
-3.Lotteries can be deployed via **Create 2** and additional data can be **stored off-chain**.
+3.Lotteries can be deployed via **Create 2**.
+
+4.Tickets are represented by **NFTs**(**ERC721**) and their additional data can be **stored off-chain**
 
 4.Lottery Tickets can be **purchased with URI**
   
