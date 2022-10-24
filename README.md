@@ -1,6 +1,6 @@
 # Decentralized-Smart-Contract-Lottery
   **Fully decentralized Smart Contract Lottery that enables users to experience fair play, proven on chain.**
-  
+  **Proxy Pattern / Create 2 / ERC721 / VRF / Hardhat / Ethers**
   ## The Lottery
   Users are able to buy tickets for a limited time.
   
